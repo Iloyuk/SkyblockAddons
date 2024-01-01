@@ -102,6 +102,12 @@
       "goodLevel": 4,
       "maxLevel": 5
     },
+    "dedication": {
+      "loreName": "Dedication",
+      "nbtName": "dedication",
+      "goodLevel": 3,
+      "maxLevel": 4
+    },
     "delicate": {
       "loreName": "Delicate",
       "nbtName": "delicate",
@@ -210,6 +216,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "green thumb": {
+      "loreName": "Green Thumb",
+      "nbtName": "green_thumb",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "growth": {
       "loreName": "Growth",
       "nbtName": "growth",
@@ -306,6 +318,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "piercing": {
       "loreName": "Piercing",
       "nbtName": "piercing",
@@ -336,6 +354,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "prosperity": {
+      "loreName": "Prosperity",
+      "nbtName": "prosperity",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "protection": {
       "loreName": "Protection",
       "nbtName": "protection",
@@ -348,11 +372,23 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "quantum": {
+      "loreName": "Quantum",
+      "nbtName": "quantum",
+      "goodLevel": 5,
+      "maxLevel": 5
+    },
     "rainbow": {
       "loreName": "Rainbow",
       "nbtName": "rainbow",
       "goodLevel": 1,
       "maxLevel": 2
+    },
+    "reflection": {
+      "loreName": "Reflection",
+      "nbtName": "reflection",
+      "goodLevel": 5,
+      "maxLevel": 5
     },
     "rejuvenate": {
       "loreName": "Rejuvenate",
@@ -450,6 +486,12 @@
       "goodLevel": 9,
       "maxLevel": 10
     },
+    "sunder": {
+      "loreName": "Sunder",
+      "nbtName": "sunder",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "tabasco": {
       "loreName": "Tabasco",
       "nbtName": "tabasco",
@@ -479,6 +521,12 @@
       "nbtName": "titan_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "transylvanian": {
+      "loreName": "Transylvanian",
+      "nbtName": "transylvanian",
+      "goodLevel": 5,
+      "maxLevel": 5
     },
     "triple-strike": {
       "loreName": "Triple-Strike",
@@ -650,6 +698,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "rend": {
       "loreName": "Rend",
       "nbtName": "ultimate_rend",
@@ -665,6 +719,12 @@
     "swarm": {
       "loreName": "Swarm",
       "nbtName": "ultimate_swarm",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "the one": {
+      "loreName": "The One",
+      "nbtName": "ultimate_the_one",
       "goodLevel": 0,
       "maxLevel": 5
     },
